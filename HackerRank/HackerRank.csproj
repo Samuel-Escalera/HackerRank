@@ -41,6 +41,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Basic\DiagonalDifference.cs" />
         <Compile Include="Basic\FindTheMedian.cs" />
         <Compile Include="Basic\LonleyInteger.cs" />
         <Compile Include="Basic\MiniMaxSum.cs" />
